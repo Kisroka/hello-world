@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-I iz in your repository!
+I is in your repository!
